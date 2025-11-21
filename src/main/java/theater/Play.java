@@ -1,7 +1,7 @@
 package theater;
 
 /**
- * A descriptive comment.
+ * Plays.
  */
 public class Play {
 
